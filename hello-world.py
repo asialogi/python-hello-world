@@ -5,5 +5,5 @@
 
 # This program prints Hello, world!
 
-str = 'world'
+str = 'welcome to the demo of web-based IDE'
 print('Hello, ' + str + '!')
